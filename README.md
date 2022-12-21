@@ -1,5 +1,5 @@
 # Election_Analysis
-#Overview of Election Audit
+# Overview of Election Audit
 ##  For deliverable 1, the task is to break down our election results using python syntax. The election audit results have been submitted. However, the commission has requested additional data: voter turnout, percentage of voters from each county out of the total count, and the county with the highest turnout. For loops and conditional statements must be included along with membership and logical operators. The results are supposed to be printed out and saved to a file named election_results. For deliverable 2, this output examines the outcome of the election. It is categorically separated by county votes, largest county turnout, and candidate winner. 
 # Election Audit Results
 ![election results](https://user-images.githubusercontent.com/89429991/177657107-73db4e6c-a10c-4949-a7a6-1b5935284680.PNG)
